@@ -16,3 +16,5 @@ I am going to use a python script similar to that used in the article "[[Publish
 
 - [x] Modify script to select content for this project and dump it to a publishing directory
 - [ ] Setup GitHub Actions to copy content to a new repo for publishing
+
+![[Image 7.jpeg]]
