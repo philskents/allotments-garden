@@ -6,7 +6,7 @@ published: true
 # Introduction
 ---
 ## Summary
-
+Take two... Obsidian git nowapparently supports git submodules and that is a game changer for this project as 
 
 ~~## Summary
 Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
