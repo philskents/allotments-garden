@@ -1,5 +1,5 @@
 ---
-type: note
+type: note digital-garden
 description: Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
 published: true
 ---
@@ -10,8 +10,7 @@ Take two... Obsidian git nowapparently supports git submodules and that is a gam
 
 My new strategy is as follows:
 
-- Use a single Obsidian vault as my "single pane of glass"
-- Any shared content will exist in one or more dir
+- Use a single Obsidian vault as my "single pane of glass". This will require some specific vault configurations
 
 ~~## Summary
 Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
