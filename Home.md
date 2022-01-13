@@ -4,13 +4,13 @@ description: Design and build a method whereby I can publish multiple "digital g
 published: true
 ---
 # Introduction
----
 ## Summary
-Take two... Obsidian git nowapparently supports git submodules and that is a game changer for this project. I am going to refer to this methodology as allotments purely as a throwback to [this wonderful British tradition](https://en.wikipedia.org/wiki/Allotment_(gardening)) which was [solarpunk](https://builtin.com/greentech/solarpunk) before it was cool!
+Take two... Obsidian git nowapparently supports git submodules and that is a game changer for this project. I am going to refer to this methodology as Allotments purely as a throwback to [this wonderful British tradition](https://en.wikipedia.org/wiki/Allotment_(gardening)) which was [solarpunk](https://builtin.com/greentech/solarpunk) before it was cool!
 
 My new strategy is as follows:
 
-- Use a single Obsidian vault as my "single pane of glass". This will require some specific vault configurations
+- A single Obsidian vault backed up and synchronized using git will form the core of my Obsidian setup
+- This will require some specific vault configurations to support Allotments
 
 ~~## Summary
 Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
