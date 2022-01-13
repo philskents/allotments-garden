@@ -10,7 +10,7 @@ Take two... Obsidian git nowapparently supports git submodules and that is a gam
 My new strategy is as follows:
 
 - A single Obsidian vault backed up and synchronized using git will form the core of my Obsidian setup
-- This will require some specific vault configurations to support Allotments
+- This will require some specific [[Vault Setup|vault configurations]] to support Allotments
 
 ~~## Summary
 Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
