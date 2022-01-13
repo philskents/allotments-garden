@@ -1,10 +1,8 @@
 ---
+type: link
 description: A basic structure for a link that you want to collect
 published: true
-title: Notes
-type: link
 ---
-
 %%
 Status:: #triage 
 %%
@@ -14,4 +12,5 @@ Status:: #triage
 
 ---
 
+# Notes
 - Used as the basis for my publishing script

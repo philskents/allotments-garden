@@ -1,10 +1,9 @@
 ---
+type: note
 description: A Python script to select the notes to be published and output them
 published: true
-title: Selecting and Creating Content
-type: note
 ---
-
+# Selecting and Creating Content
 
 ---
 

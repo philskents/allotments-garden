@@ -1,11 +1,9 @@
 ---
-description: Design and build a method whereby I can publish multiple "digital gardens"
-  to public hosting from a single Obsidian Vault.
-published: true
-title: Introduction
 type: note
+description: Design and build a method whereby I can publish multiple "digital gardens" to public hosting from a single Obsidian Vault.
+published: true
 ---
-
+# Introduction
 ---
 
 ## Summary
@@ -32,3 +30,4 @@ graph LR
 task from "🗂 Projects/Digital Garden Publishing" and !"🗂 Projects/Digital Garden Publishing/Home"
 where !completed
 ```
+
