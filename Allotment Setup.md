@@ -12,4 +12,8 @@ description: A basic note structure with no additional properties other than sta
 ## TLDR
 ### New allotments
 - Create a new empty git repository on your git server
-- Add it as a submodule
+- Add it as a submodule to your parent git repository
+- Set the tracking branch for your submodule
+
+## New Allotments
+For new Allotments 
