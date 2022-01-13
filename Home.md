@@ -13,4 +13,4 @@ My new strategy is as follows:
 
 - A single Obsidian vault backed up and synchronized using git will form the core of my Obsidian setup
 - This will require some specific [[Vault Setup|vault configurations]] to support Allotments
-- Each Allotment will then become a git submodule
+- Each Allotment will then [[Allotment Setup|be configured]] as a git submodule
