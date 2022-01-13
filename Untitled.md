@@ -12,4 +12,3 @@ Status:: #triage
 
 ---
 
-> Plant a new 🌱 seed so that 👩‍🌾 you can 🚜 harvest your 🌽 ideas

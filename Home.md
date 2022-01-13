@@ -6,7 +6,7 @@ published: true
 # Introduction
 ---
 ## Summary
-Take two... Obsidian git nowapparently supports git submodules and that is a game changer for this project.
+Take two... Obsidian git nowapparently supports git submodules and that is a game changer for this project. I am going to refer to this methodology as allotments purely as a throwback to [this wonderful British tradition](https://en.wikipedia.org/wiki/Allotment_(gardening)) which was [solarpunk](https://builtin.com/greentech/solarpunk) before it was cool!
 
 My new strategy is as follows:
 
