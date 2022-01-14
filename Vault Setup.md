@@ -15,6 +15,7 @@ description: Vault setup for an allotments style publishing method
 - You need a vault that uses obsidian-git for backup/sync
 - Sort content for publishing into one or more folders
 - Configure images and attachments to be stored with the current file
+
 ---
 
 ## Setup

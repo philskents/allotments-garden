@@ -14,6 +14,7 @@ The [Perlite](https://github.com/secure-77/Perlite) setup is a multi-part workfl
 
 ### Repo setup
 
+
 We are creating (yet another) git repository which will host the code and submodules required to build our published site. Once you have creaated the folder on your git server clone it to yor local machine.
 
 `git clone git@REMOTE_URL:/path/to/git/repos/allotment-manager.git`
@@ -22,15 +23,7 @@ Create a folder in the root called allotments and link your allotments as submod
 
 `git submodule add git@REMOTE_URL:/path/to/git/repos/allotment.git allotments/allotment-name`
 
-We are also going to grab the Perlite code as a submodule and pin it to the latest release (1.3 at time of writing).
-
-```git submodule add https://github.com/secure-77/Perlite.git```
-
-then hop into the submodule directory and run
-
-```git checkout tag:v1.3```
-
-Finally push it to the server
+I also forked the Perlite repo and added it as a parent module as well as we will need to make some changes to the Dockerfiles to make this more friendly for deployment later. 
 
 ## GitHub Actions
 
