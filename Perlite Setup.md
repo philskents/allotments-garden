@@ -12,6 +12,8 @@ description: A basic note structure with no additional properties other than sta
 # Confiuring a Publishing Workflow
 The [Perlite](https://github.com/secure-77/Perlite) setup is a multi-part workflow that will deliver a Perlite Docker container hosting your Allotments and ready to push to a contaner host of your choice. I am using GitHub Actions to orchestrate this workflow.
 
+### Repo setup
+
 We are creating (yet another) git repository which will host the code and submodules required to build our published site. Once you have creaated the folder on your git server clone it to yor local machine.
 
 `git clone git@REMOTE_URL:/path/to/git/repos/allotment-manager.git`
@@ -19,3 +21,16 @@ We are creating (yet another) git repository which will host the code and submod
 Create a folder in the root called allotments and link your allotments as submodules into that folder.
 
 `git submodule add git@REMOTE_URL:/path/to/git/repos/allotment.git allotments/allotment-name`
+
+We are also going to grab the Perlite code as a submodule and pin it to the latest release (1.3 at time of writing).
+
+```git submodule add https://github.com/secure-77/Perlite.git```
+
+then hop into the submodule directory and run
+
+```git checkout tag:v1.3```
+
+Finally push it to the server
+
+## GitHub Actions
+
