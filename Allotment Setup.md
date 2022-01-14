@@ -1,5 +1,5 @@
 ---
-type: note
+type: note digital-garden
 description: Allotment setup guide
 ---
 ---
