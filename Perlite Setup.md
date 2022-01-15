@@ -23,7 +23,12 @@ Create a folder in the root called allotments and link your allotments as submod
 
 `git submodule add git@REMOTE_URL:/path/to/git/repos/allotment.git allotments/allotment-name`
 
-I also forked the Perlite repo and added it as a parent module as well as we will need to make some changes to the Dockerfiles to make this more friendly for deployment later. 
+I also forked the Perlite repo and added it as a  submodule as well as we will need to make some changes to it. The code can be found in this [repo](https://github.com/philskents/Perlite) including the changes but to summarize:
+
+- Modified the dockerfiles so both the web and the app containers get a full copy of the static files (Lightsail Container service does not support shared volumes)
+- Modified the dockerfiles so the markdown is copied into the containers (again, no volumes)
+- Modified the nginx config to use localhost instead of the app container name (Lightsail doesnt provide container name resolution)
+- Modified the blog link to point to my blog
 
 ## GitHub Actions
 
