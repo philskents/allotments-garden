@@ -5,7 +5,7 @@ description: A basic note structure with no additional properties other than sta
 
 ---
 
-**Links**: [[Home]]
+**Links**: [[🏁 Start Here]]
 
 ---
 

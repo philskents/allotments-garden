@@ -13,7 +13,7 @@ Obsidian git now apparently supports git submodules and that is a game changer f
 My new strategy is as follows:
 
 - A single Obsidian vault backed up and synchronized using git will form the core of my Obsidian setup
-- This will require some specific [[Vault Setup|vault configurations]] to support Allotments
-- Each Allotment will then [[Allotment Setup|be configured]] as a git submodule
+- This will require some specific vault configurations to support Allotments (see [[Vault Setup]])
+- Each Allotment will then as a git submodule (see [[Allotment Setup]])
 
 At this point you now have a bunch of markdown and associated attachments that you can host in a variety of ways stored away from your main vault. I decided to use [Perlite](https://github.com/secure-77/Perlite) for this as it seems to be the best option right now to handle Obsidian's markdown eccentricities.

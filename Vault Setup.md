@@ -5,7 +5,7 @@ description: Vault setup for an allotments style publishing method
 
 ---
 
-**Links**: [[Home]]
+**Links**: [[🏁 Start Here]]
 
 ---
 

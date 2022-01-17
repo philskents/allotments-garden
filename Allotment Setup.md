@@ -4,7 +4,7 @@ description: Allotment setup guide
 ---
 ---
 
-**Links**: [[Home]]
+**Links**: [[🏁 Start Here]]
 
 ---
 
