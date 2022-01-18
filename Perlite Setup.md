@@ -1,5 +1,5 @@
 ---
-type: note
+tag: digital-garden allotments
 description: A basic note structure with no additional properties other than status and tags and links
 ---
 
@@ -31,4 +31,5 @@ I also forked the Perlite repo and added it as a  submodule as well as we will n
 - Modified the blog link to point to my blog
 
 ## GitHub Actions
+
 
