@@ -33,7 +33,7 @@ For new Allotments you start at your git server (GitHub for me) and create a new
 
 Because of the way obsidian-git handles submodules we also need to set the branch to track for the submodule (probably main).
 
-`git submodule set-branch --branch <default-branch> -- <repo-name>`
+`git submodule--helper set-branch --branch <default-branch> -- <repo-name>`
 
 And finally run this for reasons I do not understand
 
